@@ -1,0 +1,6 @@
+path: /home/aaron/Documents/data/YOLO_training_set/dataset_large_images_randomwindows
+train: images/train
+val: images/val
+channels: 1
+names:
+  0: dislocation
